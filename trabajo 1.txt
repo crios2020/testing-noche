@@ -1,0 +1,10 @@
+Trabajo Práctico
+
+https://servicios.usig.buenosaires.gob.ar/normalizar
+
+- Dado el api usig de normalización de direcciones
+- Crear documento de suite de testeo.
+- Crear una collection en postman.
+- Realizar el testeo.
+
+- Entrega Individual, fecha estimada 17/11/2022
